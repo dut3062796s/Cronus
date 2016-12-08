@@ -1,3 +1,6 @@
+#### 3.1.0-beta0001 - 08.12.2016
+* Uses latest Nyx build scripts
+
 #### 3.0.2 - 08.11.2016
 * Remove default configuration for In Memory Aggregate Atomic Action
 

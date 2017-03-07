@@ -16,8 +16,6 @@ namespace Elders.Cronus.InMemory.Config
 
         int IConsumerSettings.NumberOfWorkers { get; set; }
 
-        MessageThreshold IConsumerSettings.MessageTreshold { get; set; }
-
         IContainer ISettingsBuilder.Container { get; set; }
 
         string ISettingsBuilder.Name { get; set; }

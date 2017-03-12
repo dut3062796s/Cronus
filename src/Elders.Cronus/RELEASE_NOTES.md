@@ -1,3 +1,6 @@
+#### 4.0.0-beta0001 - 12.03.2017
+* Moves out the consumer implementation. Cronus now handles only bootstraping of consumers.
+
 #### 3.0.2 - 08.11.2016
 * Remove default configuration for In Memory Aggregate Atomic Action
 
